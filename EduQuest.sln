@@ -5,8 +5,6 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduQuest", "EduQuest.csproj", "{0D5B09D4-589D-434C-9025-5A6F4E50050E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduQuestTests", "..\EduQuestTests\EduQuestTests.csproj", "{65675355-C7DF-46D6-89D5-7698FF99D3A8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
