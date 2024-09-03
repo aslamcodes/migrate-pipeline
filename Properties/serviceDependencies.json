@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "storage1": {
+      "type": "storage",
+      "connectionId": "LocalStorageConnString"
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}
